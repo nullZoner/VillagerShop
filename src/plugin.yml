@@ -1,0 +1,10 @@
+name: VillagerShop
+version: 1.0
+main: it.arena.nullzoner.Main
+author: nullZoner
+commands:
+  vshop:
+permissions:
+  permesso.shop:
+    default: op
+
